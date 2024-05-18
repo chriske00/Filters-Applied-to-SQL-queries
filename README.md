@@ -1,4 +1,4 @@
-# Filters-Applied-to-SQL-queries
+# SQL Querying and Data Analysis
 
 ## Objective
 The project involves using SQL queries to analyze login attempts and employee data for security and operational purposes.
